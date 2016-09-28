@@ -2,6 +2,7 @@
 
 ##Georeferencing Based on Thames Hydrology
 Additions by: Justin Jolly
+
 In this tutorial, you will learn how to georeference old maps of London to the Thames River, its oldest landmark.
 ![18th Century Depiction of the River Thames](http://www.gac.culture.gov.uk/images%5Clarger%5C10862.jpg)
 1. Make a new folder entitled "London Maps."
